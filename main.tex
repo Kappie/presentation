@@ -1,0 +1,92 @@
+\documentclass{beamer}
+
+% Packages for baskervillef font.
+% \usepackage[T1]{fontenc}
+% \usepackage{baskervillef}
+% \usepackage[varqu,varl,var0]{inconsolata}
+% \usepackage[scale=.95,type1]{cabin}
+% \usepackage[baskerville,vvarbb]{newtxmath}
+% \usepackage[cal=boondoxo]{mathalfa}
+
+\usepackage{amsmath}
+
+% Input packages for tikz pictures.
+\input{../../LatexFiles/images/tikz_declarations}
+
+% Just to make sure: import these packages last.
+\usepackage[backend=biber, style=authoryear, sorting=none, hyperref]{biblatex}
+\usepackage{hyperref}
+
+\addbibresource{../../LatexFiles/references.bib}
+\graphicspath{{../../LatexFiles/images/}{../../LatexFiles/plots/}{images/}{plots/}{/Users/geertkapteijns/Dropbox/Plots/}}
+
+\DeclareMathOperator{\tr}{Tr}
+
+\newcommand{\includeproper}[2][0.8]{\includegraphics[width=#1\textwidth,height=#1\textheight,keepaspectratio]{#2}}
+
+\title{Finite-$\chi$ scaling using CTMRG in the 2D classical Ising model}
+\date{\today}
+\author{Geert Kapteijns}
+
+\pagestyle{empty}
+
+
+\begin{document}
+\maketitle
+
+\section{Corner transfer matrix renormalization group}
+
+\begin{frame}
+  \includeproper[0.6]{ctm_tensor_network.png}
+
+  \begin{equation*}
+    Z = \tr A^4
+  \end{equation*}
+\end{frame}
+
+\begin{frame}
+  \includeproper[]{ctm_renormalization_step.png}
+\end{frame}
+
+\begin{frame}
+  \includeproper[]{ctm_reduced_density_matrix.png}
+\end{frame}
+
+\begin{frame}
+  \frametitle{\cite{baxter1982exactly_ctm}}
+  \includeproper[]{baxter_truncated_equations.png}
+\end{frame}
+
+\begin{frame}
+  \frametitle{\cite{baxter1978variational, baxter1968dimers}}
+  \includeproper[]{baxter_mps.png}
+\end{frame}
+
+\begin{frame}
+  \includeproper[]{baxter_free_energy.png}
+\end{frame}
+
+
+
+\section{Finite-size scaling}
+
+\begin{frame}
+  \frametitle{Finite systems distort critical behaviour}
+  \includeproper[]{order_parameter_vs_T_N8-24_exact.pdf}
+\end{frame}
+
+\section{Finite-$\chi$ scaling}
+
+\begin{frame}
+  \frametitle{Finite-$\chi$ scaling}
+  
+
+
+\end{frame}
+
+
+\begin{frame}[allowframebreaks]
+  \printbibliography
+\end{frame}
+
+\end{document}

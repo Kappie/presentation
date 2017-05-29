@@ -1,0 +1,17 @@
+[0] Config.pm:343> INFO - This is Biber 2.5
+[0] Config.pm:346> INFO - Logfile is 'main.blg'
+[71] biber-darwin:290> INFO - === Mon May 29, 2017, 07:37:16
+[109] Biber.pm:351> INFO - Reading 'main.bcf'
+[232] Biber.pm:776> INFO - Found 3 citekeys in bib section 0
+[247] Biber.pm:3493> INFO - Processing section 0
+[278] Biber.pm:3657> INFO - Looking for bibtex format file '../../LatexFiles/references.bib' for section 0
+[282] bibtex.pm:1187> INFO - Decoding LaTeX character macros into UTF-8
+[288] bibtex.pm:1048> INFO - Found BibTeX data source '../../LatexFiles/references.bib'
+[293] Utils.pm:149> WARN - Duplicate entry key: 'jose1977renormalization' in file '../../LatexFiles/references.bib', skipping ...
+[315] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[315] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[315] Biber.pm:3306> INFO - Sorting list 'none/global/' of type 'entry' with scheme 'none' and locale 'en-US'
+[315] Biber.pm:3310> INFO - No sort tailoring available for locale 'en-US'
+[320] bbl.pm:526> INFO - Writing 'main.bbl' with encoding 'ascii'
+[323] bbl.pm:619> INFO - Output to main.bbl
+[324] Biber.pm:108> INFO - WARNINGS: 1
