@@ -19,6 +19,7 @@
 
 \addbibresource{../../LatexFiles/references.bib}
 \graphicspath{{../../LatexFiles/images/}{../../LatexFiles/plots/}{images/}{plots/}{/Users/geertkapteijns/Dropbox/Plots/}}
+\useoutertheme{infolines}
 
 \DeclareMathOperator{\tr}{Tr}
 
@@ -37,6 +38,7 @@
 \section{Corner transfer matrix renormalization group}
 
 \begin{frame}
+  \frametitle{\cite{nishino1996corner}}
   \includeproper[0.6]{ctm_tensor_network.png}
 
   \begin{equation*}
@@ -79,13 +81,83 @@
 
 \begin{frame}
   \frametitle{Finite-$\chi$ scaling}
-  
+  \begin{itemize}
+
+    \item \cite{ostlund1995thermodynamic}:
+    DMRG becomes MPS-ansatz in thermodynamic limit, MPS has inherently finite correlation length.
+    \item \cite{nishino1996numerical} numerical evidence: effective length scale given by
+    \begin{equation*}
+      \xi(T = T_c, N \to \infty, \chi) \propto N_{\text{eff}}
+      \end{equation*}
+
+  \end{itemize}
+\end{frame}
+
+\begin{frame}
+  \includeproper[]{m_vs_correlation_length_power_law_fit_Tcrit_chi8-112_tol1e-7.pdf}
+\end{frame}
+
+\begin{frame}
+  \includeproper[]{order_parameter_vs_N_power_law_fit_N5-4000.pdf}
+\end{frame}
+
+\begin{frame}
+  \includeproper[0.7]{data_collapse_chi24-60_bounding_box_q2.pdf}
+
+  Fitting a data collapse: \cite{bhattacharjee2001measure}
+\end{frame}
+
+\section{Corner transfer matrix spectrum}
+
+\begin{frame}
+  \includeproper[]{spectrum_ctm_spin_up_boundary_N1000.pdf}
+\end{frame}
+
+\begin{frame}
+  \includeproper[]{spectrum_ctm_symmetric_boundary_N1000.pdf}
+\end{frame}
 
 
+\section{Exponent $\kappa$}
+
+\begin{frame}
+  \frametitle{Postulated exponent $\xi(\chi) \propto \chi^{\kappa}$}
+
+  \begin{itemize}
+    \item \cite{andersson1999density} found
+    \begin{equation}
+      \xi(\chi) \propto \chi^{1.3}
+    \end{equation}
+    for gapless system of free fermions in DMRG calculations.
+    \item \cite{tagliacozzo2008scaling} numerical evidence for:
+      \begin{align}
+        \kappa_{\text{Ising}} & \approx 2, \\
+        \kappa_{\text{Heisenberg}} & \approx 1.37.
+      \end{align}
+      using iTEBD
+  \end{itemize}
+
+\end{frame}
+
+\begin{frame}
+  Theoretic framework predicting $\kappa$ by \cite{pollmann2009theory}
+\end{frame}
+
+\begin{frame}
+  \includeproper[]{correlation_length_vs_chi_Tcrit_power_law_fit_chi8-112_tol1e-7.pdf}
+\end{frame}
+
+\begin{frame}
+  \includeproper[]{correlation_length_vs_chi_power_law_fit_q2_chi8-50_tol1e-7_symmetric_boundary.pdf}
+\end{frame}
+
+\begin{frame}
+  \includeproper[]{correlation_length_Tc_q2_tol1e-7_fixed_and_symmetric.pdf}
 \end{frame}
 
 
 \begin{frame}[allowframebreaks]
+  \frametitle{References}
   \printbibliography
 \end{frame}
 

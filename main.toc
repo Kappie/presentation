@@ -5,3 +5,9 @@
 \beamer@sectionintoc {1}{Corner transfer matrix renormalization group}{2}{0}{1}
 \defcounter {refsection}{0}\relax 
 \beamer@sectionintoc {2}{Finite-size scaling}{8}{0}{2}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {3}{Finite-$\chi $ scaling}{9}{0}{3}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {4}{Corner transfer matrix spectrum}{13}{0}{4}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {5}{Exponent $\kappa $}{15}{0}{5}

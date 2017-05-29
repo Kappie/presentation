@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.10.6)  29 MAY 2017 08:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.10.6)  29 MAY 2017 13:14
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1410,6 +1410,10 @@ Package biblatex Info: ... file 'biblatex.cfg' found.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/biblatex/biblatex.cfg
 File: biblatex.cfg 
 ))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/beamer/themes/outer/beamerouterth
+emeinfolines.sty
+Package: beamerouterthemeinfolines 2012/10/16  (rcs-revision 51a8c72084af)
+)
 \tikzscale@accuracy=\skip78
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
@@ -1425,33 +1429,33 @@ Package biblatex Warning: Patching footnotes failed.
 \@quotereset=\count388
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 34.
+(hyperref)                removing `math shift' on input line 35.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\chi' on input line 34.
+(hyperref)                removing `\chi' on input line 35.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 34.
+(hyperref)                removing `math shift' on input line 35.
 
 (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1461,14 +1465,14 @@ LaTeX Font Info:    ... okay on input line 34.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: includehead includefoot 
-* h-part:(L,W,R)=(28.45274pt, 307.28987pt, 28.45274pt)
+* h-part:(L,W,R)=(10.95003pt, 342.2953pt, 10.95003pt)
 * v-part:(T,H,B)=(0.0pt, 273.14662pt, 0.0pt)
 * \paperwidth=364.19536pt
 * \paperheight=273.14662pt
-* \textwidth=307.28987pt
+* \textwidth=342.2953pt
 * \textheight=244.6939pt
-* \oddsidemargin=-43.81725pt
-* \evensidemargin=-43.81725pt
+* \oddsidemargin=-61.31996pt
+* \evensidemargin=-61.31996pt
 * \topmargin=-72.26999pt
 * \headheight=14.22636pt
 * \headsep=0.0pt
@@ -1517,7 +1521,7 @@ e
 ))
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box81
-Package hyperref Info: Link coloring OFF on input line 34.
+Package hyperref Info: Link coloring OFF on input line 35.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -1527,66 +1531,66 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count395
 )
-LaTeX Info: Redefining \ref on input line 34.
-LaTeX Info: Redefining \pageref on input line 34.
-LaTeX Info: Redefining \nameref on input line 34.
+LaTeX Info: Redefining \ref on input line 35.
+LaTeX Info: Redefining \pageref on input line 35.
+LaTeX Info: Redefining \nameref on input line 35.
 
 (./main.out) (./main.out)
 \@outlinefile=\write7
 \openout7 = `main.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 34.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 35.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 34.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 35.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 34.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 34.
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 35.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 35.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 34.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 35.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 34.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 34.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 35.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 35.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 34.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 35.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 34.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 34.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 35.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 35.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 34.
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 35.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 34.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 34.
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 35.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 35.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 34.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 35.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 34.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 35.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 34.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 35.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 34.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 35.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 34.
+(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 35.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 34.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 35.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 34.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 35.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 34.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 35.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 34.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 34.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 35.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 35.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
 (Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 3
-4.
+5.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/cmss/bx/it --> OT1/mathkerncmss/m/sl on input line 
-34.
+35.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
-ut line 34.
+ut line 35.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/beamer/translator/dicts/translato
 r-basic-dictionary/translator-basic-dictionary-English.dict
@@ -1612,7 +1616,7 @@ Dictionary: translator-numbers-dictionary, Language: English
 r-theorem-dictionary/translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-LaTeX Info: Redefining \includegraphics on input line 34.
+LaTeX Info: Redefining \includegraphics on input line 35.
 
 Package pgfplots notification 'compat/show suggested version=true': you might b
 enefit from \pgfplotsset{compat=1.13} (current compat level: 1.5).
@@ -1626,8 +1630,8 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
 (./main.bbl)
-Package biblatex Info: Reference section=0 on input line 34.
-Package biblatex Info: Reference segment=0 on input line 34.
+Package biblatex Info: Reference section=0 on input line 35.
+Package biblatex Info: Reference segment=0 on input line 35.
  (./main.nav)
 LaTeX Font Info:    Try loading font information for U+msa on input line 35.
 
@@ -1645,86 +1649,266 @@ line 35.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
 thkerncmss.
-) [1
+)
+Overfull \hbox (44.09488pt too wide) in paragraph at lines 35--35
+ [][][][]  
+ []
+
+[1
 
 {/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-<images/ctm_tensor_network.png, id=52, 685.56125pt x 679.53876pt>
+<images/ctm_tensor_network.png, id=65, 685.56125pt x 679.53876pt>
 File: images/ctm_tensor_network.png Graphic file (type png)
 
 <use images/ctm_tensor_network.png>
-Package pdftex.def Info: images/ctm_tensor_network.png used on input line 45.
-(pdftex.def)             Requested size: 162.91663pt x 161.48544pt.
+Package pdftex.def Info: images/ctm_tensor_network.png used on input line 47.
+(pdftex.def)             Requested size: 150.97038pt x 149.64415pt.
  [2
 
  <./images/ctm_tensor_network.png>]
-<images/ctm_renormalization_step.png, id=84, 1260.71pt x 445.665pt>
+<images/ctm_renormalization_step.png, id=99, 1260.71pt x 445.665pt>
 File: images/ctm_renormalization_step.png Graphic file (type png)
 
 <use images/ctm_renormalization_step.png>
 Package pdftex.def Info: images/ctm_renormalization_step.png used on input line
- 49.
-(pdftex.def)             Requested size: 307.28961pt x 108.62785pt.
+ 51.
+(pdftex.def)             Requested size: 342.28146pt x 120.99757pt.
  [3
 
  <./images/ctm_renormalization_step.png>] <images/ctm_reduced_density_matrix.pn
-g, id=111, 1349.04pt x 596.2275pt>
+g, id=126, 1349.04pt x 596.2275pt>
 File: images/ctm_reduced_density_matrix.png Graphic file (type png)
 
 <use images/ctm_reduced_density_matrix.png>
 Package pdftex.def Info: images/ctm_reduced_density_matrix.png used on input li
-ne 53.
-(pdftex.def)             Requested size: 307.2879pt x 135.81027pt.
+ne 55.
+(pdftex.def)             Requested size: 342.28183pt x 151.27634pt.
  [4
 
  <./images/ctm_reduced_density_matrix.png>]
-<images/baxter_truncated_equations.png, id=139, 1136.245pt x 685.56125pt>
+<images/baxter_truncated_equations.png, id=154, 1132.23pt x 697.60625pt>
 File: images/baxter_truncated_equations.png Graphic file (type png)
 
 <use images/baxter_truncated_equations.png>
 Package pdftex.def Info: images/baxter_truncated_equations.png used on input li
-ne 58.
-(pdftex.def)             Requested size: 307.29305pt x 185.40736pt.
+ne 60.
+(pdftex.def)             Requested size: 342.29764pt x 210.90146pt.
  [5
 
- <./images/baxter_truncated_equations.png>] <images/baxter_mps.png, id=168, 120
+ <./images/baxter_truncated_equations.png>] <images/baxter_mps.png, id=183, 120
 0.485pt x 272.01625pt>
 File: images/baxter_mps.png Graphic file (type png)
 
 <use images/baxter_mps.png>
-Package pdftex.def Info: images/baxter_mps.png used on input line 63.
-(pdftex.def)             Requested size: 307.2828pt x 69.62679pt.
+Package pdftex.def Info: images/baxter_mps.png used on input line 65.
+(pdftex.def)             Requested size: 342.28833pt x 77.55864pt.
  [6
 
  <./images/baxter_mps.png>]
-<images/baxter_free_energy.png, id=198, 1007.765pt x 532.99126pt>
+<images/baxter_free_energy.png, id=213, 1007.765pt x 532.99126pt>
 File: images/baxter_free_energy.png Graphic file (type png)
 
 <use images/baxter_free_energy.png>
-Package pdftex.def Info: images/baxter_free_energy.png used on input line 67.
-(pdftex.def)             Requested size: 307.2833pt x 162.51736pt.
+Package pdftex.def Info: images/baxter_free_energy.png used on input line 69.
+(pdftex.def)             Requested size: 342.29727pt x 181.0357pt.
  [7
 
  <./images/baxter_free_energy.png>]
 </Users/geertkapteijns/Dropbox/Plots/order_parameter_vs_T_N8-24_exact.pdf, id=2
-25, 505.89pt x 404.51125pt>
+40, 505.89pt x 404.51125pt>
 File: /Users/geertkapteijns/Dropbox/Plots/order_parameter_vs_T_N8-24_exact.pdf 
 Graphic file (type pdf)
 
 <use /Users/geertkapteijns/Dropbox/Plots/order_parameter_vs_T_N8-24_exact.pdf>
 Package pdftex.def Info: /Users/geertkapteijns/Dropbox/Plots/order_parameter_vs
-_T_N8-24_exact.pdf used on input line 76.
-(pdftex.def)             Requested size: 307.29561pt x 245.71454pt.
+_T_N8-24_exact.pdf used on input line 78.
+(pdftex.def)             Requested size: 311.92715pt x 249.41794pt.
 
-Overfull \vbox (0.44142pt too high) detected at line 76
+Overfull \vbox (23.87805pt too high) detected at line 78
  []
 
 [8
 
  </Users/geertkapteijns/Dropbox/Plots/order_parameter_vs_T_N8-24_exact.pdf>]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 80.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\chi' on input line 80.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 80.
+
 [9
 
- </usr/local/texlive/2016/texmf-dist/tex/latex/beamer/art/beamericonarticle.pdf
+]
+</Users/geertkapteijns/Dropbox/Plots/m_vs_correlation_length_power_law_fit_Tcri
+t_chi8-112_tol1e-7.pdf, id=303, 494.84875pt x 416.55624pt>
+File: /Users/geertkapteijns/Dropbox/Plots/m_vs_correlation_length_power_law_fit
+_Tcrit_chi8-112_tol1e-7.pdf Graphic file (type pdf)
+
+<use /Users/geertkapteijns/Dropbox/Plots/m_vs_correlation_length_power_law_fit_
+Tcrit_chi8-112_tol1e-7.pdf>
+Package pdftex.def Info: /Users/geertkapteijns/Dropbox/Plots/m_vs_correlation_l
+ength_power_law_fit_Tcrit_chi8-112_tol1e-7.pdf used on input line 98.
+(pdftex.def)             Requested size: 296.29237pt x 249.41446pt.
+
+Overfull \vbox (1.00107pt too high) detected at line 98
+ []
+
+[10
+
+ </Users/geertkapteijns/Dropbox/Plots/m_vs_correlation_length_power_law_fit_Tcr
+it_chi8-112_tol1e-7.pdf>]
+</Users/geertkapteijns/Dropbox/Plots/order_parameter_vs_N_power_law_fit_N5-4000
+.pdf, id=331, 505.89pt x 404.51125pt>
+File: /Users/geertkapteijns/Dropbox/Plots/order_parameter_vs_N_power_law_fit_N5
+-4000.pdf Graphic file (type pdf)
+
+<use /Users/geertkapteijns/Dropbox/Plots/order_parameter_vs_N_power_law_fit_N5-
+4000.pdf>
+Package pdftex.def Info: /Users/geertkapteijns/Dropbox/Plots/order_parameter_vs
+_N_power_law_fit_N5-4000.pdf used on input line 102.
+(pdftex.def)             Requested size: 311.92715pt x 249.41794pt.
+
+Overfull \vbox (1.00455pt too high) detected at line 102
+ []
+
+[11
+
+ </Users/geertkapteijns/Dropbox/Plots/order_parameter_vs_N_power_law_fit_N5-400
+0.pdf>]
+</Users/geertkapteijns/Dropbox/Plots/data_collapse_chi24-60_bounding_box_q2.pdf
+, id=357, 505.89pt x 404.51125pt>
+File: /Users/geertkapteijns/Dropbox/Plots/data_collapse_chi24-60_bounding_box_q
+2.pdf Graphic file (type pdf)
+
+<use /Users/geertkapteijns/Dropbox/Plots/data_collapse_chi24-60_bounding_box_q2
+.pdf>
+Package pdftex.def Info: /Users/geertkapteijns/Dropbox/Plots/data_collapse_chi2
+4-60_bounding_box_q2.pdf used on input line 108.
+(pdftex.def)             Requested size: 218.3467pt x 174.59071pt.
+ [12
+
+ </Users/geertkapteijns/Dropbox/Plots/data_collapse_chi24-60_bounding_box_q2.pd
+f>]
+</Users/geertkapteijns/Dropbox/Plots/spectrum_ctm_spin_up_boundary_N1000.pdf, i
+d=386, 505.89pt x 404.51125pt>
+File: /Users/geertkapteijns/Dropbox/Plots/spectrum_ctm_spin_up_boundary_N1000.p
+df Graphic file (type pdf)
+
+<use /Users/geertkapteijns/Dropbox/Plots/spectrum_ctm_spin_up_boundary_N1000.pd
+f>
+Package pdftex.def Info: /Users/geertkapteijns/Dropbox/Plots/spectrum_ctm_spin_
+up_boundary_N1000.pdf used on input line 114.
+(pdftex.def)             Requested size: 311.92715pt x 249.41794pt.
+
+Overfull \vbox (1.00455pt too high) detected at line 114
+ []
+
+[13
+
+ </Users/geertkapteijns/Dropbox/Plots/spectrum_ctm_spin_up_boundary_N1000.pdf>]
+
+</Users/geertkapteijns/Dropbox/Plots/spectrum_ctm_symmetric_boundary_N1000.pdf,
+ id=415, 505.89pt x 404.51125pt>
+File: /Users/geertkapteijns/Dropbox/Plots/spectrum_ctm_symmetric_boundary_N1000
+.pdf Graphic file (type pdf)
+
+<use /Users/geertkapteijns/Dropbox/Plots/spectrum_ctm_symmetric_boundary_N1000.
+pdf>
+Package pdftex.def Info: /Users/geertkapteijns/Dropbox/Plots/spectrum_ctm_symme
+tric_boundary_N1000.pdf used on input line 118.
+(pdftex.def)             Requested size: 311.92715pt x 249.41794pt.
+
+Overfull \vbox (1.00455pt too high) detected at line 118
+ []
+
+[14
+
+ </Users/geertkapteijns/Dropbox/Plots/spectrum_ctm_symmetric_boundary_N1000.pdf
 >]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 121.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\kappa' on input line 121.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 121.
+
+[15
+
+] [16
+
+]
+</Users/geertkapteijns/Dropbox/Plots/correlation_length_vs_chi_Tcrit_power_law_
+fit_chi8-112_tol1e-7.pdf, id=499, 490.83376pt x 413.545pt>
+File: /Users/geertkapteijns/Dropbox/Plots/correlation_length_vs_chi_Tcrit_power
+_law_fit_chi8-112_tol1e-7.pdf Graphic file (type pdf)
+
+<use /Users/geertkapteijns/Dropbox/Plots/correlation_length_vs_chi_Tcrit_power_
+law_fit_chi8-112_tol1e-7.pdf>
+Package pdftex.def Info: /Users/geertkapteijns/Dropbox/Plots/correlation_length
+_vs_chi_Tcrit_power_law_fit_chi8-112_tol1e-7.pdf used on input line 148.
+(pdftex.def)             Requested size: 296.03038pt x 249.41618pt.
+
+Overfull \vbox (1.00279pt too high) detected at line 148
+ []
+
+[17
+
+ </Users/geertkapteijns/Dropbox/Plots/correlation_length_vs_chi_Tcrit_power_law
+_fit_chi8-112_tol1e-7.pdf>]
+</Users/geertkapteijns/Dropbox/Plots/correlation_length_vs_chi_power_law_fit_q2
+_chi8-50_tol1e-7_symmetric_boundary.pdf, id=527, 505.89pt x 404.51125pt>
+File: /Users/geertkapteijns/Dropbox/Plots/correlation_length_vs_chi_power_law_f
+it_q2_chi8-50_tol1e-7_symmetric_boundary.pdf Graphic file (type pdf)
+
+<use /Users/geertkapteijns/Dropbox/Plots/correlation_length_vs_chi_power_law_fi
+t_q2_chi8-50_tol1e-7_symmetric_boundary.pdf>
+Package pdftex.def Info: /Users/geertkapteijns/Dropbox/Plots/correlation_length
+_vs_chi_power_law_fit_q2_chi8-50_tol1e-7_symmetric_boundary.pdf used on input l
+ine 152.
+(pdftex.def)             Requested size: 311.92715pt x 249.41794pt.
+
+Overfull \vbox (1.00455pt too high) detected at line 152
+ []
+
+[18
+
+ </Users/geertkapteijns/Dropbox/Plots/correlation_length_vs_chi_power_law_fit_q
+2_chi8-50_tol1e-7_symmetric_boundary.pdf>]
+</Users/geertkapteijns/Dropbox/Plots/correlation_length_Tc_q2_tol1e-7_fixed_and
+_symmetric.pdf, id=554, 505.89pt x 404.51125pt>
+File: /Users/geertkapteijns/Dropbox/Plots/correlation_length_Tc_q2_tol1e-7_fixe
+d_and_symmetric.pdf Graphic file (type pdf)
+
+<use /Users/geertkapteijns/Dropbox/Plots/correlation_length_Tc_q2_tol1e-7_fixed
+_and_symmetric.pdf>
+Package pdftex.def Info: /Users/geertkapteijns/Dropbox/Plots/correlation_length
+_Tc_q2_tol1e-7_fixed_and_symmetric.pdf used on input line 156.
+(pdftex.def)             Requested size: 311.92715pt x 249.41794pt.
+
+Overfull \vbox (1.00455pt too high) detected at line 156
+ []
+
+[19
+
+ </Users/geertkapteijns/Dropbox/Plots/correlation_length_Tc_q2_tol1e-7_fixed_an
+d_symmetric.pdf>] [20
+
+ </usr/local/texlive/2016/texmf-dist/tex/latex/beamer/art/beamericonarticle.pdf
+>] [21
+
+
+]
 \tf@nav=\write8
 \openout8 = `main.nav'.
 
@@ -1734,35 +1918,40 @@ Overfull \vbox (0.44142pt too high) detected at line 76
 \tf@snm=\write10
 \openout10 = `main.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 83.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 83.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 164.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 164.
  (./main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 83.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 83.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 164.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 164.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: AFD6BC05839F5EA03F0CC9A651D7C365;133.
+(rerunfilecheck)             Checksum: 257662F7BC71289A1F520CAA3F4D94AB;293.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 83.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 164.
  ) 
 Here is how much of TeX's memory you used:
- 45196 strings out of 493014
- 1056775 string characters out of 6133351
- 1656390 words of memory out of 5000000
- 47979 multiletter control sequences out of 15000+600000
- 14550 words of font info for 53 fonts, out of 8000000 for 9000
+ 45453 strings out of 493014
+ 1065941 string characters out of 6133351
+ 1661957 words of memory out of 5000000
+ 48181 multiletter control sequences out of 15000+600000
+ 15890 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 61i,9n,82p,10434b,1105s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb
-></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb>
-</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb><
-/usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></u
-sr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb>
-Output written on main.pdf (9 pages, 667308 bytes).
+ 61i,13n,82p,10434b,1106s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb>
+</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></
+usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></u
+sr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></us
+r/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/
+local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/
+local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/l
+ocal/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/lo
+cal/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on main.pdf (21 pages, 1036410 bytes).
 PDF statistics:
- 312 PDF objects out of 1000 (max. 8388607)
- 271 compressed objects within 3 object streams
- 25 named destinations out of 1000 (max. 500000)
- 94 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 693 PDF objects out of 1000 (max. 8388607)
+ 622 compressed objects within 7 object streams
+ 59 named destinations out of 1000 (max. 500000)
+ 158 words of extra memory for PDF output out of 10000 (max. 10000000)
 
